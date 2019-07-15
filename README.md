@@ -282,6 +282,12 @@ to render a full width monthly calendar with responsive squares for each day:
 
 ## Change Log
 
+### 3.0.0
+
+* Drop support for Django 1.11, Django 2.0, Python 2.7, and Python 3.4
+* Add support for Django 2.1, 2.2 and Python 3.7
+* Remove references to detox and add tox --parallel
+
 ### 2.0.4
 
 * Remove local template in favor of pinax-templates
